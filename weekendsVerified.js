@@ -1,5 +1,5 @@
 let Day;
-Day = 'lundi'
+Day = 'lundi';
 if (Day === 'samedi' || Day === 'dimanche') {
   console.log('weekend');
 } else {
